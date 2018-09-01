@@ -3,9 +3,9 @@ import tower_cli.resources.user
 from tower_cli.conf import settings
 import json
 
-USERNAME="admin"
-PASSWORD="r78rkD6QVd6v"
-HOST="10.42.0.42"
+USERNAME="USERNAME"
+PASSWORD="PASSWORD"
+HOST="HOST"
 
 def get_teams():
     team_lst = []
